@@ -296,7 +296,7 @@ def startgrab():
 	titik = ['.   ','..  ','... ','....','.....']
 	for o in titik:
 		print("\r\x1b[37;1m[☆]Cracking"+o),;sys.stdout.flush();time.sleep(1)
-	print "\n                            \x1b[37;1m"@@@@@@/AMIN MALAKE/@@@@@@"
+	print "\n                            \x1b[37;1mAMIN MALAKE
 	print "   \x1b[31;1m#############################################################"
 
 	anime('          \x1b[34;1m  dastpe krdn  tkaya bosta..... ')
