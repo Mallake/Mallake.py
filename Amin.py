@@ -536,8 +536,8 @@ def startgrab():
 
 
 
-	print ""
-	print ""
+
+
 	raw_input("\n\x1b[31;1m [DWBARA KRDNA WA] enter bka")
 	menu()
 
