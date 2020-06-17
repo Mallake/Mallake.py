@@ -527,19 +527,54 @@ def startgrab():
 	anime(">> AMIN MALAKE"
 	
 
+	
 
+	
 
+		
 
-
-
-
-
-
-
-
-
-	raw_input("\n\x1b[31;1m [DWBARA KRDNA WA] enter bka")
 	menu()
 
 if __name__ == '__main__':
+
 	login()
+
+		
+
+
+
+
+
+
+
+		
+
+
+
+if 
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
