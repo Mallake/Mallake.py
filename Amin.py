@@ -524,57 +524,11 @@ def startgrab():
 	print ""
 	print(logo)
 	anime(">>>>>>>>>>>>>>>AMIN<<<<<<<<<<<<<<<")
-	anime(">> AMIN MALAKE"
-	
+	anime(">> AMIN MALAKE <<") 
+        print ""
+	print ""
+	raw_input("\n\x1b[31;1m [DWBARA KRDNA WA] enter bka")
+	menu()
 
-	
-
-	
-
-		
-
-
-
-
-
-	
-
-		
-
-
-
-
-
-
-
-		
-
-
-
-
-	
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+if __name__ == '__main__':
+	login()
